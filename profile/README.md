@@ -1,12 +1,13 @@
-# Cyber Cosmos
+# Titanspan
 
-**Engineering beyond limits.**
+**Engineer beyond limits.**
 
-Cyber Cosmos builds open-source frameworks, developer tools and infrastructure
-for intelligent, distributed and high-performance systems.
+Titanspan is an open-source, async-first Python application framework for
+building intelligent systems at scale.
 
-We believe complex technology should be accessible through expressive APIs,
-thoughtful architecture and exceptional developer experiences.
+Our goal is to unify web application development, AI workflow orchestration,
+structured concurrency, distributed execution and high-throughput data
+processing through a cohesive, convention-driven architecture.
 
 ## Our focus
 
@@ -20,30 +21,21 @@ thoughtful architecture and exceptional developer experiences.
 
 ## Projects
 
-### Titanspan
+### Titanspan Framework
 
-An expressive, async-first Python framework for building intelligent systems
-at scale.
+The core Python framework is under active development. Explore the repository
+for its current capabilities, architecture, roadmap and contribution guidance.
 
-Inspired by Laravel, Titanspan aims to unify web application development, AI
-workflow orchestration, structured concurrency, distributed execution and
-large-scale data processing into a cohesive developer experience.
-
-[Explore Titanspan](https://github.com/Cyber-Cosmos/titanspan)
+[Explore Titanspan](https://github.com/titanspan/titanspan)
 
 ## Engineering philosophy
 
 We build upon proven technologies rather than reinventing foundational
 infrastructure.
 
-Our projects prioritize simplicity, extensibility, correctness, performance,
-testability and long-term maintainability.
-
-We believe powerful systems should not require unnecessarily complicated
-developer experiences.
+We prioritize expressive APIs, strong typing, correctness, security,
+performance, testability and long-term maintainability.
 
 ## Open source
 
 We welcome thoughtful contributions, technical discussions and collaboration.
-
-Explore our repositories to learn more.

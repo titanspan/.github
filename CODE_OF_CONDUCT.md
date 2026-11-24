@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Cyber Cosmos is committed to a welcoming, respectful, and constructive
+Titanspan is committed to a welcoming, respectful, and constructive
 community for everyone, regardless of background or identity.
 
 ## Expected behavior
@@ -24,4 +24,4 @@ a repository administrator through GitHub. Reports should include links and
 enough context to investigate; do not post private information publicly.
 
 This policy applies to organization repositories and project spaces maintained
-by Cyber Cosmos.
+by Titanspan.

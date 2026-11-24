@@ -1,4 +1,4 @@
-# Contributing to Cyber Cosmos
+# Contributing to Titanspan
 
 Thank you for contributing. Each repository may provide project-specific
 guidance; read that guidance before opening an issue or pull request.
